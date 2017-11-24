@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/erchasousuoshu.dir/main.cpp.o CMakeFiles/erchasousuoshu.dir/erchashu.cpp.o  -o erchasousuoshu 

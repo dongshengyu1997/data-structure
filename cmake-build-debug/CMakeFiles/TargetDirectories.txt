@@ -1,0 +1,3 @@
+/home/dsy/CLionProjects/erchasousuoshu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dsy/CLionProjects/erchasousuoshu/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dsy/CLionProjects/erchasousuoshu/cmake-build-debug/CMakeFiles/erchasousuoshu.dir
